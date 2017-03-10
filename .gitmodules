@@ -1,6 +1,7 @@
 [submodule "subA"]
 	path = subA
 	url = https://github.com/hmackiernan/subA
+	branch = stable
 [submodule "subB"]
 	path = subB
 	url = https://github.com/hmackiernan/subB
